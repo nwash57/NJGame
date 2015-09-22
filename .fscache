@@ -1,0 +1,7 @@
+::res://::1442897275
+hello.scn::PackedScene::1442461961::
+icon.png::ImageTexture::1442461447::
+movement.scn::PackedScene::1442897272::
+player.gd::GDScript::1442897275::
+raycasting.gd::GDScript::1442897275::
+sprite_player.png::ImageTexture::1442801594::
